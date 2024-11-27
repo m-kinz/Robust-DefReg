@@ -8,27 +8,27 @@ Despite the existence of several datasets for deformable point cloud registratio
 # Citation:
 If you use Robust-DefReg code or SynBench Dataset please cite:
 
-@article{monji2024robust,
-  title={Robust-DefReg: a robust coarse to fine non-rigid point cloud registration method based on graph convolutional neural networks},
-  author={Monji-Azad, Sara and Kinz, Marvin and M{\"a}nnel, David and Scherl, Claudia and Hesser, J{\"u}rgen},
-  journal={Measurement Science and Technology},
-  volume={36},
-  number={1},
-  pages={015426},
-  year={2024},
-  publisher={IOP Publishing}
+@article{monji2024robust,<br />
+  title={Robust-DefReg: a robust coarse to fine non-rigid point cloud registration method based on graph convolutional neural networks},<br />
+  author={Monji-Azad, Sara and Kinz, Marvin and M{\"a}nnel, David and Scherl, Claudia and Hesser, J{\"u}rgen},<br />
+  journal={Measurement Science and Technology},<br />
+  volume={36},<br />
+  number={1},<br />
+  pages={015426},<br />
+  year={2024},<br />
+  publisher={IOP Publishing}<br />
 }
 
-, and
+, and <br />
 
-@data{data/R9IKCF_2023,
-author = {Marvin Kinz},
-publisher = {heiDATA},
-title = {{SimTool-SynBench}},
-year = {2023},
-version = {V2},
-doi = {10.11588/data/R9IKCF},
-url = {https://doi.org/10.11588/data/R9IKCF}
+@data{data/R9IKCF_2023,<br />
+author = {Marvin Kinz},<br />
+publisher = {heiDATA},<br />
+title = {{SimTool-SynBench}},<br />
+year = {2023},<br />
+version = {V2},<br />
+doi = {10.11588/data/R9IKCF},<br />
+url = {https://doi.org/10.11588/data/R9IKCF}<br />
 }
 
 
