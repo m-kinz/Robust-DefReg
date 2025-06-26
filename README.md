@@ -1,5 +1,5 @@
 # Google Colab (Temporary for Heidelberg Workshop)
-Please Open the [(Colab Codes)(https://colab.research.google.com/drive/1v7rFbfNY2G9TeZmc_9pwf2bdq7edVppB?usp=sharing)]
+Please Open the [(Colab Codes)](https://colab.research.google.com/drive/1v7rFbfNY2G9TeZmc_9pwf2bdq7edVppB?usp=sharing)
 
 # Robust-DefReg: a robust coarse to fine non-rigid point cloud registration method based on graph convolutional neural networks [(Paper Link)](https://iopscience.iop.org/article/10.1088/1361-6501/ad916c/meta)
 
